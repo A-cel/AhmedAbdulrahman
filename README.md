@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,laravel,ts,php,cs,cpp,html,css,bootstrap,sqlserver,mysql,js,wordpress" />
+    <img src="https://skillicons.dev/icons?i=dotnet,laravel,ts,php,cs,cpp,html,css,bootstrap,mysql,js,wordpress" />
   </a>
 </p>
 
